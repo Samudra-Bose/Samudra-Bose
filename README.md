@@ -32,7 +32,6 @@ Frontend Developer • AI & Machine Learning Enthusiast • Future Startup Found
 
 # 📊 GitHub Stats:
 ![](https://streak-stats.demolab.com/?user=Samudra-Bose&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Samudra-Bose&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
